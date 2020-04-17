@@ -64,10 +64,15 @@ textarea:focus {
   outline: none;
 }
 
+a {
+  color: #59476d;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
   outline: none;
+  color: #1759af;
 }
 
 ul,
@@ -78,9 +83,8 @@ ol {
 
 .card {
   background: #eddfdf;
-  margin: 1rem;
-  padding: 10px;
   border-style: none;
+
 }
 
 
