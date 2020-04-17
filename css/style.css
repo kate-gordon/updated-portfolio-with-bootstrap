@@ -76,6 +76,13 @@ ol {
   margin: 0;
 }
 
+.card {
+  background: #eddfdf;
+  margin: 1rem;
+  padding: 10px;
+  border-style: none;
+}
+
 
 /*------------------------
   Helper css
